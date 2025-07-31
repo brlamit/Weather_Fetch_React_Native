@@ -1,0 +1,10 @@
+{
+  "buildscript": {
+    "dependencies": {
+      "classpath": "com.google.gms:google-services:4.4.2"
+    }
+  },
+  "dependencies": {
+    "implementation": "com.google.firebase:firebase-messaging:24.0.1"
+  }
+}

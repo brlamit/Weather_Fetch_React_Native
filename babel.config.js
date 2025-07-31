@@ -10,7 +10,8 @@ module.exports = function (api) {
         moduleName: '@env',
         path: '.env',
       }]
-
-    // plugins: ["react-native-reanimated/plugin"],
+    ],
+   presets: ['babel-preset-expo'],
+    plugins: ['expo-router/babel'],
   };
 };

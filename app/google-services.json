@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "742883520667",
+    "project_id": "notify-2932b",
+    "storage_bucket": "notify-2932b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742883520667:android:455181661039d5a29fd63e",
+        "android_client_info": {
+          "package_name": "com.xavtechnology.notify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmTTOHHOFax7ujIArjuvxOYEXeoO67iK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
